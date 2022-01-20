@@ -1,0 +1,28 @@
+const colors = {
+    dark_bg : '#070708',
+      active: '#006AC6',
+      del:'#F04542',
+      dark:'#344356',
+      lightGrey : '#E9E7E7',
+      textColor:'#242424',
+      zoomActive:'#3DA2F8',
+      unselected:'#F0F0F0',
+      darkTextColor:'#120D26',
+      lightTextColor:'#8669f6',
+      titleColor : 'rgba(35,35,35, 0.85)',
+      descriptionColor:'rgba(35,35,35, 0.8)', 
+      lightBlue:'#039BDC',
+      lightYellow:'#FFF4CB',
+      footerBG:'#531169',
+      lightBlueOpacity:'rgba(3,155,220, 0.5)',
+      primary : '#F73D24',
+      primaryOpacity:'rgba(247,61,36, 0.2)',
+      primaryDark: '#C42712',
+      black : '#3b3b3b',
+      grey : '#8A8A8A',
+      white : '#fff',
+      red : 'tomato',
+      darkGrey : '#757575',
+  }
+  
+  export default colors;
