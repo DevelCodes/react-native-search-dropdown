@@ -1,57 +1,35 @@
 [
     {
-        "id": "682",
-        "name": "Pear",
-        "state": "Andhra Pradesh"
+        "name": "Pear"
     },
     {
-        "id": "683",
-        "name": "Orange",
-        "state": "Kerala"
+        "name": "Orange"
     },
     {
-        "id": "684",
-        "name": "Mango",
-        "state": "Uttar Pradesh"
+        "name": "Mango"
     },
     {
-        "id": "685",
-        "name": "Beans",
-        "state": "Uttar Pradesh"
+        "name": "Beans"
     },
     {
-        "id": "686",
-        "name": "Guava",
-        "state": "Tamil Nadu"
+        "name": "Guava"
     },
     {
-        "id": "687",
-        "name": "Chili",
-        "state": "Karnataka"
+        "name": "Chili"
     },
     {
-        "id": "688",
-        "name": "Lichi",
-        "state": "Maharashtra"
+        "name": "Lichi"
     },
     {
-        "id": "689",
-        "name": "Apple",
-        "state": "Gujarat"
+        "name": "Apple"
     },
     {
-        "id": "690",
-        "name": "Banana",
-        "state": "Maharashtra"
+        "name": "Banana"
     },
     {
-        "id": "691",
-        "name": "Tomato",
-        "state": "Andhra Pradesh"
+        "name": "Tomato"
     },
     {
-        "id": "692",
-        "name": "Lemon",
-        "state": "Karnataka"
+        "name": "Lemon"
     }
 ]
