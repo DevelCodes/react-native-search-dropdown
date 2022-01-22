@@ -1,0 +1,27 @@
+{
+  "name": "react-native-search-dropdown",
+  "version": "1.0.1",
+  "description": "Searchable Dropdown Component for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevelCodes/react-native-search-dropdown.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "search",
+    "dropdown",
+    "list"
+  ],
+  "author": "dev_arnab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevelCodes/react-native-search-dropdown/issues"
+  },
+  "homepage": "https://github.com/DevelCodes/react-native-search-dropdown#readme"
+}
