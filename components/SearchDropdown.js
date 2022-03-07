@@ -11,7 +11,7 @@ import SearchInput from "./SearchInput";
 
 const { width } = Dimensions.get("window");
 const fruitsArray = require("../data/data.json");
-export default function SearchableList({
+export default function SearchDropdown({
   dataArray,
   placeholder,
   style,
